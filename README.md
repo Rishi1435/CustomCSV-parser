@@ -51,7 +51,7 @@ with open('output.csv', 'r', encoding='utf-8') as f:
 ```
 
 ## Performance Results
-Tested on [Your OS/Processor] with 10,000 rows.
+Tested on My OS/Processor with 10,000 rows.
 
 | Operation | Standard Lib | Custom Lib | Slowdown Factor |
 |-----------|--------------|------------|-----------------|
